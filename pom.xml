@@ -59,7 +59,7 @@
         <repository>
             <id>github</id>
             <name>GitHub KravchenkoAS Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/KravchenkoAS/bootique</url>
+            <url>https://maven.pkg.github.com/KravchenkoAS/bootique-my-repo</url>
         </repository>
     </distributionManagement>
 
